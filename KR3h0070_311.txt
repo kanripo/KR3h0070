@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.511721
+#+DATE: 2019-03-29 21:19:46.526638
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 311
 <pb:KR3h0070_WYG_311-1a>¶
 　　欽定四庫全書¶
@@ -125,7 +125,7 @@
 ¶
 　　趙秉文幼年詩與書皆法子端後更學太白東坡字¶
 兼古今諸家學及晚年書大進詩専法唐人魁然一¶
-時文士領䄂自號閒閒居士云(劉祁歸&KR0343;志)¶
+時文士領䄂自號閒閒居士云(劉祁歸?志)¶
 ¶
 　　王庭筠¶
 ¶

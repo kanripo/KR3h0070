@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.761914
+#+DATE: 2019-03-29 21:19:42.864456
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 77
 <pb:KR3h0070_WYG_077-1a>¶
 　　欽定四庫全書¶
@@ -290,8 +290,8 @@
 ¶
 　　李邕撰并行書開元二十五年七月(金石録)¶
 ¶
-　　東山愛同寺懐道闍&KR0058;碑括州刺史李邕撰并書闍¶
-&KR0058;姓陳氏為福州愛同寺僧碑以開元二十五年七¶
+　　東山愛同寺懐道闍黎碑括州刺史李邕撰并書闍¶
+黎姓陳氏為福州愛同寺僧碑以開元二十五年七¶
 月立(集古録目)¶
 ¶
 　　𤣥覧律師碑¶

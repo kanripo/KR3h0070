@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.496746
+#+DATE: 2019-03-29 21:19:46.509918
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 310
 <pb:KR3h0070_WYG_310-1a>¶
 　　欽定四庫全書¶
@@ -301,7 +301,7 @@
 文肅真帖然忘其處所矣若南豐與湘潭翰墨則¶
 未之見也來撫訪跡故家於是識湘潭之孫濰而¶
 因得盡窺其先世四君子典刑雖紙弊墨渝生意¶
-&KR0110;然故在不謂衰莫潦倒猶有此一幸遇也敬書¶
+曄然故在不謂衰莫潦倒猶有此一幸遇也敬書¶
 以志喜　嘉定癸未夏浚儀趙汝談¶
 ¶
 <pb:KR3h0070_WYG_310-12a>¶

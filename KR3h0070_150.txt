@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.485020
+#+DATE: 2019-03-29 21:19:44.079190
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 150
 <pb:KR3h0070_WYG_150-1a>¶
 　　欽定四庫全書¶
@@ -481,7 +481,7 @@
 聖富緝熈之學寓之翰墨俯臨王羲之脩禊序妙入¶
 <pb:KR3h0070_WYG_150-20a>¶
 神品劉光世當靖康之末奉迎濟上率先諸帥敦詩¶
-閲禮夙蒙恩遇固宜被此&KR0194;章其子堯仁褾軸來上¶
+閲禮夙蒙恩遇固宜被此寵章其子堯仁褾軸來上¶
 捧觀再三復書此以賜之乾道改元季冬臣謹書¶
 ¶
 ¶

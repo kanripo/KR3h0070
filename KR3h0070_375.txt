@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:41.490021
+#+DATE: 2019-03-29 21:19:47.526931
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 375
 <pb:KR3h0070_WYG_375-1a>¶
 　　欽定四庫全書¶
@@ -176,7 +176,7 @@
 ¶
 　　蔡邕藏論衡於帳辨才棲禊帖於梁(後村跋蔡端明茶録)¶
 ¶
-　　借眼前之景而𠲒萬里不盡之情因古人之法而得三¶
+　　借眼前之景而含萬里不盡之情因古人之法而得三¶
 <pb:KR3h0070_WYG_375-6b>¶
 昧自在之力(周益公跋米元章書)¶
 ¶

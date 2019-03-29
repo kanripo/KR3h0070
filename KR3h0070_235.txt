@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:39.515345
+#+DATE: 2019-03-29 21:19:45.356175
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 235
 <pb:KR3h0070_WYG_235-1a>¶
 　　欽定四庫全書¶
@@ -655,7 +655,7 @@
 之情¶
 ¶
 <pb:KR3h0070_WYG_235-26a>¶
-　　畺三　三排之横畫者截然中處而不&KR0446;其上下有仰¶
+　　畺三　三排之横畫者截然中處而不乖其上下有仰¶
 覆之别¶
 ¶
 　　其目　四畫之字上下反其情而二三但取順¶

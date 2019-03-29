@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.803130
+#+DATE: 2019-03-29 21:19:42.927097
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 81
 <pb:KR3h0070_WYG_081-1a>¶
 　　欽定四庫全書¶
@@ -83,7 +83,7 @@
 ¶
 　　唐砥柱銘貞觀十二年特進魏徴撰祕書正字薛純¶
 書其字因山鑱鑿就其窪平隨多少置字故不成行¶
-序宛轉索於嶔&KR0991;間以摹故石雖存而頗難得世知¶
+序宛轉索於嶔崎間以摹故石雖存而頗難得世知¶
 貴之唐以書學相髙刻石之文此其最大者也筆力¶
 有餘㸃畫不失尚多隸體氣象竒偉猶有古人體法¶
 <pb:KR3h0070_WYG_081-4b>¶

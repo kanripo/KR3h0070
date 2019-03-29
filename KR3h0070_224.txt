@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:39.384255
+#+DATE: 2019-03-29 21:19:45.198361
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 224
 <pb:KR3h0070_WYG_224-1a>¶
 　　欽定四庫全書¶
@@ -339,7 +339,7 @@
 遺¶
 ¶
 　　西洋馬八皃等國人以長細銛刀右手執用託以左母¶
-指横刻貝葉為字或暮夜交&KR0703;為之迅速精利皆不失¶
+指横刻貝葉為字或暮夜交睫為之迅速精利皆不失¶
 行理即古刀書之流也¶
 ¶
 　　流求國職貢中華所上表用木為簡髙八寸許厚三分¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.735014
+#+DATE: 2019-03-29 21:19:42.821929
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 74
 <pb:KR3h0070_WYG_074-1a>¶
 　　欽定四庫全書¶
@@ -323,7 +323,7 @@
 ¶
 　　元和碑¶
 ¶
-　　在永豐寳積院&KR0253;穎叔詩云舊碑聊一讀唯有記元¶
+　　在永豐寳積院蔣穎叔詩云舊碑聊一讀唯有記元¶
 和(輿地碑目)¶
 ¶
 　　李白青山詩碑¶

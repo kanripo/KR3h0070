@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:39.377027
+#+DATE: 2019-03-29 21:19:45.188605
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 223
 <pb:KR3h0070_WYG_223-1a>¶
 　　欽定四庫全書¶
@@ -194,7 +194,7 @@
 ¶
 　　吳景帝孫休製四字¶
 ¶
-　　吳録載休詔曰孤為四男作名字太子名&KR1251;&KR1251;音如湖¶
+　　吳録載休詔曰孤為四男作名字太子名[雨/單][雨/單]音如湖¶
 水灣澳之灣字酋酋音如迄今之迄次子名□□音如¶
 兕觥之觥字□□音如𤣥礥首之礥次子名柜柜音如¶
 草莽之莽字昷昷音如舉物之舉次子名&KR2591;&KR2591;音如襃¶

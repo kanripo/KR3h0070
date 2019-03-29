@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.895497
+#+DATE: 2019-03-29 21:19:46.966365
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 337
 <pb:KR3h0070_WYG_337-1a>¶
 　　欽定四庫全書¶
@@ -532,7 +532,7 @@
 <pb:KR3h0070_WYG_337-20a>¶
 　　王新建紀功碑(勤石南昌)君子亭記(謪龍塲為亭竹間記)¶
 ¶
-　　王子裕先生五墨刻(先生之子汝明刻石齋中寓思&KR0245;牆)¶
+　　王子裕先生五墨刻(先生之子汝明刻石齋中寓思羹牆)¶
 ¶
 　　豊人翁筆訣¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.423804
+#+DATE: 2019-03-29 21:19:43.956484
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 144
 <pb:KR3h0070_WYG_144-1a>¶
 　　欽定四庫全書¶
@@ -329,7 +329,7 @@
 　　汝帖¶
 ¶
 　　汝州帖廼摘諸帖中字牽合為之毎卷後有汝州印¶
-後為𥞇重摹之謂之蘭亭帖其石不佳弇州以王宷¶
+後為嵇重摹之謂之蘭亭帖其石不佳弇州以王宷¶
 輔道守汝州因徧搜諸碑帖篆分𨽻草而節取之自¶
 <pb:KR3h0070_WYG_144-16b>¶
 皇頡夏禹以至錢忠懿郭忠恕得十二卷其所留淳¶

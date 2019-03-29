@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.734356
+#+DATE: 2019-03-29 21:19:46.778869
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 326
 <pb:KR3h0070_WYG_326-1a>¶
 　　欽定四庫全書¶
@@ -849,7 +849,7 @@
 ¶
 　　張含字愈光保山人少舉於鄉不樂仕進游梁宋門¶
 <pb:KR3h0070_WYG_326-34a>¶
-為李夢陽所知與楊慎友善學者稱禺山先生(雲&KR0047;通志)¶
+為李夢陽所知與楊慎友善學者稱禺山先生(雲南通志)¶
 張禺山晩年好縱筆作草書不師法帖殊自珍異(皇明¶
 新語)¶
 ¶

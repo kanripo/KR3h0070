@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:39.567877
+#+DATE: 2019-03-29 21:19:45.419901
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 239
 <pb:KR3h0070_WYG_239-1a>¶
 　　欽定四庫全書¶
@@ -184,7 +184,7 @@
 ¶
 　　宋張世南論臨摹硬黄嚮搨¶
 ¶
-　　辨博書𦘕古器前輩蓋嘗著書矣其間有論議而未詳¶
+　　辨博書畫古器前輩蓋嘗著書矣其間有論議而未詳¶
 眀者如臨摹硬黄嚮搨是四者各有其說今人皆謂臨¶
 摹為一體殊不知臨之與摹逈然不同臨謂置紙在旁¶
 <pb:KR3h0070_WYG_239-10a>¶

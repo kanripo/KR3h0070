@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.697910
+#+DATE: 2019-03-29 21:19:42.763043
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 70
 <pb:KR3h0070_WYG_070-1a>¶
 　　欽定四庫全書¶
@@ -557,7 +557,7 @@
 ¶
 　　亳州刺史李懐碑　李著八分書未詳¶
 ¶
-　　酸&KR0037;令毌邱悦碑　東京¶
+　　酸棗令毌邱悦碑　東京¶
 ¶
 　　贈太尉上黨公碑　北京¶
 ¶

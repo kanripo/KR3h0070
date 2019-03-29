@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.663016
+#+DATE: 2019-03-29 21:19:46.701930
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 321
 <pb:KR3h0070_WYG_321-1a>¶
 　　欽定四庫全書¶
@@ -68,7 +68,7 @@
 既不可見而獨見文貞手書御製詩慨想當時明良¶
 相逢之盛一德一心雍容和樂幾事之餘發於聲畫¶
 <pb:KR3h0070_WYG_321-3b>¶
-蓋與虞舜作歌臯陶&KR0435;歌同一意也嗚呼休哉是詩¶
+蓋與虞舜作歌臯陶𢋫歌同一意也嗚呼休哉是詩¶
 今為都御史錫山楊公所藏翰林修撰臣寛獲覩而¶
 謹識之時成化九年夏四月辛未也(匏翁家藏集)¶
 ¶

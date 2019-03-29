@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.955624
+#+DATE: 2019-03-29 21:19:43.171133
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 97
 <pb:KR3h0070_WYG_097-1a>¶
 　　欽定四庫全書¶
@@ -201,7 +201,7 @@
 　　此亦王庭筠書其父記字差大結搆風骨似不及前¶
 碑(石墨鐫華)¶
 ¶
-　　黄華老人此書駸駸遂侵凌米顛只欲與之分庭&KR0936;¶
+　　黄華老人此書駸駸遂侵凌米顛只欲與之分庭抗¶
 禮虎兒在階下便當縮項爾嘉靖甲寅六月十八日¶
 <pb:KR3h0070_WYG_097-7b>¶
 睡起題(蒼潤軒碑跋)¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:36.966983
+#+DATE: 2019-03-29 21:19:41.818005
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR3h0070_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -216,7 +216,7 @@
 ¶
 　　眉壽永命多福永寳用¶
 ¶
-　　攷古云蔡愽士肇藏銘二十九字(鍾鼎欵識)¶
+　　攷古云蔡博士肇藏銘二十九字(鍾鼎欵識)¶
 ¶
 <pb:KR3h0070_WYG_010-11b>¶
 　　考器之形知為豆矣而曰齊豆吕氏以銘得之曰¶

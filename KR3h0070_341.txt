@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.955324
+#+DATE: 2019-03-29 21:19:47.032560
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 341
 <pb:KR3h0070_WYG_341-1a>¶
 　　欽定四庫全書¶
@@ -531,7 +531,7 @@
 ¶
 　　題缺¶
 ¶
-　　黄金鑄為鴨焚蘭夕殿中&KR0444;窕轉斜月逶迤動㣲風綺¶
+　　黄金鑄為鴨焚蘭夕殿中窈窕轉斜月逶迤動㣲風綺¶
 席列珠樹華燈連玉虹無眠待顧問不知清漏終卲菴¶
 ¶
 　　奉寄白雲閑公講師鄉契尊宿虞集上¶

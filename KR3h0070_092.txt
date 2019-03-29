@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.908112
+#+DATE: 2019-03-29 21:19:43.095645
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 92
 <pb:KR3h0070_WYG_092-1a>¶
 　　欽定四庫全書¶
@@ -541,7 +541,7 @@
 　　陶穀撰夢英書郭忠恕篆額(弇州山人藁)¶
 ¶
 　　陶承㫖文全乏藴藉英大師書徒爾矜張俱非當家¶
-善乎元美氏之言曰陶法門之畫葫蘆者英筆塜之¶
+善乎元美氏之言曰陶法門之畫葫蘆者英筆塚之¶
 盗枯骨者蔑以易矣(石墨鐫華)¶
 ¶
 　　篆書千字文序¶

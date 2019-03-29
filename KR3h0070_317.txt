@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.599157
+#+DATE: 2019-03-29 21:19:46.628277
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 317
 <pb:KR3h0070_WYG_317-1a>¶
 　　欽定四庫全書¶
@@ -226,7 +226,7 @@
 文藏嵩山石室中淮南王采藥得之遂傳於世又系¶
 <pb:KR3h0070_WYG_317-10a>¶
 一詩云江南羽化張天雨海上神交宋仲溫楷法鍾¶
-繇稱獨歩草臨皇象已專門折&KR0107;未墜風前股漏屋¶
+繇稱獨歩草臨皇象已專門折釵未墜風前股漏屋¶
 先凝雨後㾗寄語臨池諸俊彦蚓蛇馳騖莫須論(六研¶
 齋二筆)¶
 ¶

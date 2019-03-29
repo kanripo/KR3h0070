@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:41.374031
+#+DATE: 2019-03-29 21:19:47.422013
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 366
 <pb:KR3h0070_WYG_366-1a>¶
 　　欽定四庫全書¶
@@ -88,7 +88,7 @@
 紙墨皆古色為退谷孫侍郎収藏殆即初獲碑時所拓¶
 也鄱陽洪氏謂其字畫古怪偏旁増减有不可辨者審¶
 視之良然同觀者曲周王顯祚湛求永年申涵光和孟¶
-嘉興譚吉𤧚舟石¶
+嘉興譚吉璁舟石¶
 ¶
 　　漢魯相乙瑛請置孔廟百石卒史碑跋¶
 ¶

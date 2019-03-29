@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:37.946579
+#+DATE: 2019-03-29 21:19:43.156349
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 96
 <pb:KR3h0070_WYG_096-1a>¶
 　　欽定四庫全書¶
@@ -350,9 +350,9 @@
 ¶
 　　黄大臨庭堅兄也¶
 ¶
-　　&KR0303;无咎題字¶
+　　眺无咎題字¶
 ¶
-　　妙高臺上絶頂有&KR0303;无咎題字(周必大乾道庚寅奏事録)¶
+　　妙高臺上絶頂有眺无咎題字(周必大乾道庚寅奏事録)¶
 ¶
 　　無為子題字¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.065420
+#+DATE: 2019-03-29 21:19:43.338777
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 108
 <pb:KR3h0070_WYG_108-1a>¶
 　　欽定四庫全書¶
@@ -198,7 +198,7 @@
 　　御製虎跑泉詩一首并序¶
 ¶
 　　西湖自昔畫舫笙歌之地朕兹行志本省方止一覽¶
-其山川風土未嘗片刻停&KR0406;尚食但飲虎跑泉水一¶
+其山川風土未嘗片刻停驂尚食但飲虎跑泉水一¶
 勺耳¶
 ¶
 <pb:KR3h0070_WYG_108-7b>¶

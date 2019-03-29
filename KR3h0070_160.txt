@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.574994
+#+DATE: 2019-03-29 21:19:44.212306
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 160
 <pb:KR3h0070_WYG_160-1a>¶
 　　欽定四庫全書¶
@@ -142,7 +142,7 @@
 梁代盖晉興寧已後或宋齊人書也僕頃在洛見承直¶
 郎李鵬舉家畜此帖一卷乃唐褚令摹單郭未填筆勢¶
 精善乃錢思公家本號玉軸黄庭中有五行為周越摹¶
-換之今歸御府矣世所傳本無出其右今題此卷&KR0147;爾¶
+換之今歸御府矣世所傳本無出其右今題此卷聊爾¶
 <pb:KR3h0070_WYG_160-7b>¶
 論之¶
 ¶

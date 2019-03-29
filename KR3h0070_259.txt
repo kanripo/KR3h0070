@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:39.803238
+#+DATE: 2019-03-29 21:19:45.716267
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 259
 <pb:KR3h0070_WYG_259-1a>¶
 　　欽定四庫全書¶
@@ -487,7 +487,7 @@
 間肥瘦不一行楷雜亂非復右軍故步矣相傳定武為¶
 歐陽率更臨則楷法多禇河南臨則行法勝米海嶽筆¶
 <pb:KR3h0070_WYG_259-20b>¶
-古佻逹故不欲為定武左&KR0221;即今所摸禇河南蘭亭亦¶
+古佻逹故不欲為定武左袒即今所摸禇河南蘭亭亦¶
 我用我法以意為之耳然生趣森勃超然凌空之態仍¶
 不減山陰面目也¶
 ¶

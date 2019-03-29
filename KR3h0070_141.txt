@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.392737
+#+DATE: 2019-03-29 21:19:43.906326
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 141
 <pb:KR3h0070_WYG_141-1a>¶
 　　欽定四庫全書¶
@@ -176,7 +176,7 @@
 ¶
 　　向亦得万書帖　□□當是備悉大觀是也淳化傳摸¶
 失筆此與下賢室委頓帖當是一時書詞語多同筆¶
-法亦相似万謝万也𠦑虎未詳¶
+法亦相似万謝万也叔虎未詳¶
 ¶
 　　熱日更甚帖　早□乗涼行劉作且是顧作旦非¶
 ¶

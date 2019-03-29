@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.012483
+#+DATE: 2019-03-29 21:19:45.947712
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 275
 <pb:KR3h0070_WYG_275-1a>¶
 　　欽定四庫全書¶
@@ -154,7 +154,7 @@
 ¶
 　　餘杭帖　　逺宦帖　　附農帖¶
 ¶
-　　勿殺生帖　旃𦋺胡桃帖方物帖¶
+　　勿殺生帖　旃罽胡桃帖方物帖¶
 ¶
 　　胡桃帖　　山藥帖　　祀物帖¶
 ¶

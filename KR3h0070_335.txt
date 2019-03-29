@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.861707
+#+DATE: 2019-03-29 21:19:46.932962
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 335
 <pb:KR3h0070_WYG_335-1a>¶
 　　欽定四庫全書¶
@@ -742,7 +742,7 @@
 ¶
 　　張籍希深帖　　　　　李商隱正書月賦¶
 ¶
-　　陸希聲贈&KR1618;光詩　　　許渾烏絲欄詩稿¶
+　　陸希聲贈辯光詩　　　許渾烏絲欄詩稿¶
 ¶
 　　杜光庭詩帖　　　　　楊庭五藴論¶
 ¶

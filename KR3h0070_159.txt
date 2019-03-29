@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:38.561395
+#+DATE: 2019-03-29 21:19:44.194579
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 159
 <pb:KR3h0070_WYG_159-1a>¶
 　　欽定四庫全書¶
@@ -31,7 +31,7 @@
 耶元貞元年夏六月僕将歸吴興叔亮内翰以此巻求¶
 是正為鑒定如右甲寅日甲寅人趙孟頫書¶
 ¶
-　　右唐賢摹晉右軍蘭亭宴集序字法秀逸墨彩𧰟發竒¶
+　　右唐賢摹晉右軍蘭亭宴集序字法秀逸墨彩豔發竒¶
 麗超絶動心駭目此定是唐太宗朝供奉搨書人直宏¶
 <pb:KR3h0070_WYG_159-2a>¶
 文館馮承素等奉聖㫖于蘭亭真跡上䨇勾所摹與米¶

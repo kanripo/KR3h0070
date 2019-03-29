@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:36.958114
+#+DATE: 2019-03-29 21:19:41.799841
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR3h0070_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -383,7 +383,7 @@
 ¶
 　　廟即立宰忽入佑龍立中廷王¶
 ¶
-　　呼史大𠕋命龍王若曰龍昔先¶
+　　呼史大冊命龍王若曰龍昔先¶
 ¶
 　　王既命汝作宰司王家今余惟疃¶
 ¶

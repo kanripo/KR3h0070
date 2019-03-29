@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:41.448934
+#+DATE: 2019-03-29 21:19:47.494489
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 372
 <pb:KR3h0070_WYG_372-1a>¶
 　　欽定四庫全書¶
@@ -40,7 +40,7 @@
 初搨足本題以千金後經亂失去以予所見函山劉氏¶
 夾雪本已闕三卷補以别紙退谷孫氏則僅存二卷而¶
 <pb:KR3h0070_WYG_372-2b>¶
-已是本首尾完好獲覩銀錠未□時生面宜為鶴皋主¶
+已是本首尾完好獲覩銀錠未□時生面宜為鶴皐主¶
 人真賞也¶
 ¶
 　　石刻鋪叙跋¶

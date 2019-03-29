@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝之一錄
-#+DATE: 2019-03-29 21:19:40.105757
+#+DATE: 2019-03-29 21:19:46.066846
 #+PROPERTY: ID KR3h0070
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 282
 <pb:KR3h0070_WYG_282-1a>¶
 　　欽定四庫全書¶
@@ -115,7 +115,7 @@
 叔度之為人比来士大夫學此書好作芒角鎌利政¶
 類阿巢爾(山谷集)¶
 ¶
-　　歐陽詢度尚&KR0067;亮二帖¶
+　　歐陽詢度尚庾亮二帖¶
 ¶
 　　右唐𢎞文館學士兼太子率更令渤海縣開國男歐¶
 <pb:KR3h0070_WYG_282-6a>¶
